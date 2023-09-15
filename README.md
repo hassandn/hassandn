@@ -5,12 +5,12 @@ I'm a passionate web developer with a focus on web security and artificial intel
 
 ## 🌟 Skills
 [![My Skills](https://skillicons.dev/icons?i=python,django,docker,postgresql,html,css,flask,fastapi,bootstrap,vscode,git)](https://skillicons.dev)
-- Python
-- Django
-- HTML/CSS
-- Django Rest Framework
-- FastAPI
-- PostgreSQL
+<!-- - Python-->
+<!-- - Django-->
+<!-- - HTML/CSS-->
+<!-- - Django Rest Framework-->
+<!-- - FastAPI-->
+<!-- - PostgreSQL-->
 
 ## 📫 Contact Me
 
