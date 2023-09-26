@@ -4,7 +4,7 @@ I'm a passionate web developer with a focus on web security and artificial intel
 
 
 ## 🌟 Skills
-[![My Skills](https://skillicons.dev/icons?i=python,django,docker,postgresql,html,css,flask,fastapi,bootstrap,vscode,git)](https://github.com/hassandn)
+[![My Skills](https://skillicons.dev/icons?i=python,django,docker,postgresql,html,css,flask,fastapi,bootstrap,vscode,git,figma,js,react)](https://github.com/hassandn)
 <!-- - Python-->
 <!-- - Django-->
 <!-- - HTML/CSS-->
