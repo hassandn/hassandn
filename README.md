@@ -4,13 +4,14 @@ I'm a passionate web developer with a focus on web security and artificial intel
 
 
 ## 🌟 Skills
-[![My Skills](https://skillicons.dev/icons?i=python,django,java,docker,postgresql,html,css,flask,fastapi,bootstrap,vscode,git)](https://github.com/hassandn)
+[![My Skills](https://skillicons.dev/icons?i=python,django,java,docker,postgresql,html,css,flask,fastapi,bootstrap,vscode,git,nodejs)](https://github.com/hassandn)
 <!-- - Python-->
 <!-- - Django-->
 <!-- - HTML/CSS-->
 <!-- - Django Rest Framework-->
 <!-- - FastAPI-->
 <!-- - PostgreSQL-->
+<!-- - NodeJs-->
 
 ## 📫 Contact Me
 
